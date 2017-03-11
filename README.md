@@ -1,2 +1,2 @@
 # bash
- A customized bashrc file
+ A customized bashrc file for ubuntu
