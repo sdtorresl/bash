@@ -1,5 +1,12 @@
 # Alias's to change the directory
 alias web='cd /var/www/html'
+alias reapache='sudo service apache2 restart'
+alias cpublic='cd /var/www/public/'
+alias clog='cd /var/www/log'
+alias cbackup='cd /var/www/backup'
+alias capache='cd /etc/apache2/'
+alias cavailable='cd /etc/apache2/sites-available'
+alias cenabled='cd /etc/apache2/sites-enabled'
 
 # Alias's to modified commands
 alias cp='cp -i'
